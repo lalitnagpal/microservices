@@ -70,7 +70,7 @@
 	          </execution>
 	        </executions>
 	        <configuration>
-	          <!-- This can be overridden to brave.example.Frontend also -->
+	          <!-- This can be overridden to com.example.sleuthandzipkin.Frontend also -->
 	          <mainClass>com.example.sleuthandzipkin.Backend</mainClass>
 	          <classifier>exec</classifier>
 	          <executable>true</executable>
